@@ -1,0 +1,69 @@
+1. INTRODUCCIÓN.
+El diseño curricular del módulo profesional de Desarrollo Web en Entorno
+Cliente (DWEC) correspondiente al segundo curso del Ciclo formativo de Grado
+Superior de Técnico Superior en Desarrollo de aplicaciones Web viene recogido en la
+Orden de 16 de Junio de 2011 (BOJA149 de 1 de agosto de 2011), y que a su vez está
+basado en el Real Decreto 666/2010, de 20 de mayo.
+Para establecer el perfil profesional de este ciclo formativo, el RD 666/2010
+establece una competencia general, que consiste en:
+Desarrollar, implantar, y mantener aplicaciones web, con independencia del
+modelo empleado y utilizando tecnologías específicas, garantizando el acceso
+a los datos de forma segura y cumpliendo los criterios de accesibilidad,
+usabilidad y calidad exigidas en los estándares establecidos.
+Así mismo, para el ciclo de DAW este RD asocia una serie de unidades de
+competencias, pertenecientes al Catálogo Nacional de Cualificaciones Profesionales, a
+uno o más módulos profesionales. Concretamente para el módulo de DWEC se asocia la
+siguiente unidad de competencia, también asociada al módulo de Diseño de Interfaces
+Web.
+UC0491_3 Desarrollar elementos software en el entorno cliente.
+Por otro lado, si ubicamos este módulo en la enseñanza, tenemos que se
+impartirá en el segundo curso del Ciclo con una carga lectiva de 6 horas semanales, y un
+total de horas a lo largo del curso de 126 (repartidas en los dos primeros trimestres del
+curso).
+2. CURRÍCULO DEL MÓDULO PROFESIONAL.
+El Currículo del módulo profesional estará constituido por los resultados
+de aprendizaje, criterios de evaluación, contenidos, orientaciones pedagógicas que
+a continuación se citan:
+2.1. OBJETIVOS GENERALES.
+De los objetivos generales, del ciclo formativo de DAW, detallados en el
+Artículo 3 de la ORDEN de 16 de junio de 2011, aquellos que el alumnado alcanza, total o parcialmente, desde el módulo de Desarrollo Web en Entorno Cliente (DWEC)
+se listan a continuación:
+f) Seleccionar lenguajes, objetos y herramientas, interpretando las especificaciones para
+desarrollar aplicaciones web con acceso a bases de datos.
+g) Utilizar lenguajes, objetos y herramientas, interpretando las especificaciones para
+desarrollar aplicaciones web con acceso a bases de datos.
+i) Utilizar lenguajes de marcas y estándares web, asumiendo el manual de estilo, para
+desarrollar interfaces en aplicaciones web
+j) Emplear herramientas y lenguajes específicos, siguiendo las especificaciones, para
+desarrollar componentes multimedia.
+k) Evaluar la interactividad, accesibilidad y usabilidad de un interfaz, verificando los
+criterios preestablecidos, para Integrar componentes multimedia en el interfaz de una
+aplicación.
+l) Utilizar herramientas y lenguajes específicos, cumpliendo las especificaciones, para
+desarrollar e integrar componentes software en el entorno del servidor web.
+m) Emplear herramientas específicas, integrando la funcionalidad entre aplicaciones,
+para desarrollar servicios empleables en aplicaciones web.
+n) Evaluar servicios distribuidos ya desarrollados, verificando sus prestaciones y
+funcionalidad, para integrar servicios distribuidos en una aplicación web.
+ñ) Verificar los componentes de software desarrollados, analizando las especificaciones,
+para completar el plan de pruebas.
+o) Utilizar herramientas específicas, cumpliendo los estándares establecidos, para
+elaborar y mantener la documentación de los procesos.
+p) Establecer procedimientos, verificando su funcionalidad, para desplegar y distribuir
+aplicaciones.
+q) Programar y realizar actividades para gestionar el mantenimiento de los recursos
+informáticos.
+r) Analizar y utilizar los recursos y oportunidades de aprendizaje relacionadas con la
+evolución científica, tecnológica y organizativa del sector y las tecnologías de la información y la comunicación, para mantener el espíritu de actualización y adaptarse a
+nuevas situaciones laborales y personales.
+s) Desarrollar la creatividad y el espíritu de innovación para responder a los retos que se
+presentan en los procesos y organización de trabajo y de la vida personal.
+t) Tomar decisiones de forma fundamentada analizando las variables implicadas,
+integrando saberes de distinto ámbito y aceptando los riesgos y la posibilidad de
+equivocación en las mismas, para afrontar y resolver distintas situaciones, problemas o
+contingencias.
+y) Identificar y proponer las acciones profesionales necesarias para dar respuesta a la
+accesibilidad universal y al diseño para todos
+z) Identificar y aplicar parámetros de calidad en los trabajos y actividades realizados en
+el proceso de aprendizaje para valorar la cultura de la evaluación y de la calidad y ser
+capaces de supervisar y mejorar procedimientos de gestión de calidad.
