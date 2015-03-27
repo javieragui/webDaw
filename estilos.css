@@ -1,4 +1,7 @@
 html, body{margin:0px;padding:0px}
 h1{color:blue}
-nav ul{list-style-type:none;padding:0px}
+nav ul{list-style-type:none;padding:0px flex:1;}
+.contenido{display:flex; flex-direction: row;}
+section{flex: 3;}
+footer{display:block;}
 
