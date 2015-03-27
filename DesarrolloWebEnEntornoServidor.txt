@@ -1,0 +1,70 @@
+1. INTRODUCCIÓN.
+Para que el alumnado a lo largo del ciclo pueda estudiar las posibles soluciones de
+desarrollo de software existentes en el mercado es necesario aprender el proceso inicial
+de análisis y diseño de algoritmos y su posterior transformación en programas a través de
+lenguajes de programación. Para ello deben conocer los conceptos básicos sobre la
+programación, independientemente del lenguaje empleado, así como técnicas de
+programación estructurada, modular y orientada a objetos.
+El presente documento es la programación didáctica del módulo de “Desarrollo
+web en entorno servidor” junto con las horas de libre configuración, que se imparte
+en el segundo curso del ciclo formativo de grado superior de Desarrollo de
+Aplicaciones Web. Dicho módulo, tal como establece el Real Decreto de Título, se debe
+impartir por profesores del cuerpo de Enseñanza Secundaria de la especialidad de
+Informática. La duración del módulo es de 168+63=231 horas lectivas y se desarrolla a lo
+largo de los dos primeros trimestres del curso.
+Esta programación está basada en el Real Decreto 686/2010 de 20 de mayo, por el
+que se establece el título de Técnico Superior en Desarrollo de Aplicaciones Web y se
+fijan sus enseñanzas mínimas, la Orden de 16 de junio de 2011 por la que se desarrolla el
+currículo correspondiente al título de Técnico Superior en Desarrollo de Aplicaciones Web,
+la Orden de 29 de septiembre de 2010 por la que se regula la evaluación, certificación,
+acreditación y titulación académica del alumnado que cursa enseñanzas de formación
+profesional inicial, y lo establecido en el Proyecto Educativo del centro.
+2. OBJETIVOS GENERALES DEL DISEÑO CURRICULAR.
+El desarrollo curricular propuesto se ajusta a la “Documentación aportada en el
+Decreto que establece las enseñanzas correspondiente al titulo de formación profesional
+de Técnico Superior en Desarrollo de Aplicaciones Web en la Comunidad Autónoma
+Andaluza”, habiéndose seguido para su elaboración las directrices y normas establecidas
+e incluidas en la citada documentación.
+No obstante, el modelo de programación debe considerarse como un diseño abierto
+y debe ser adecuado a las características propias del tipo de alumnado y la zona en la
+que se va a implantar, valorando y ajustando la influencia que los parámetros que el
+entorno aconsejen. En algunos casos se han sopesado las ventajas e inconvenientes de
+concretar más algunas directrices, recomendaciones o procedimientos, optándose en la
+mayoría de ellos por una mayor libertad de enfoque, sin perjuicio de establecer las
+restricciones y requerimientos necesarios.
+Se ha tratado de enfocar este desarrollo curricular poniendo en situación de
+profesional al sujeto que va a ser objeto directo del proceso de enseñanza-aprendizaje,
+planificando este proceso conforme a las tareas que este futuro profesional tendrá
+encomendadas y estimando el nivel de conocimientos con los que iniciará el aprendizaje,
+así como el desarrollo y la ampliación de conceptos y habilidades que adquirirá en el
+mismo período de tiempo en otros módulos de este Ciclo Formativo.
+La estructura de contenidos se ha elaborado a partir del contenido organizador,
+teniendo en cuenta las fases más significativas del procedimiento general y los resultadosde aprendizaje que deben adquirirse. De esta estructura se derivará la relación
+secuenciada de unidades de trabajo. Cada una de estas unidades está ordenada por la
+integración de tres componentes: los contenidos (organizadores y soporte), las
+actividades de enseñanza-aprendizaje y un conjunto de criterios de evaluación que
+permitirán decidir si se han conseguido obtener los resultados de aprendizaje deseados
+así como el grado de desarrollo adquirido en cada una de ellas.
+3. RELACIÓN CON OTROS MÓDULOS. INTERDISCIPLINARIDAD.
+Las tareas que tiene encomendadas el desarrollador de aplicaciones informáticas en
+este módulo se derivan del estudio y resolución de problemas comunes en el mundo del
+desarrollo de software en entornos multiusuario. Se desea que el alumno sea capaz de
+desarrollar software funcional, fiable y que sea capaz de utilizar la abstracción en el
+proceso de desarrollo del software.. Hay que tener en cuenta que son necesarios unos
+conocimientos de informática básica, y de sistemas operativos.
+La consecución de los objetivos de este modulo están íntimamente interconectados
+con las habilidades que serán necesarias en otros módulos venideros de este ciclo:
+• Programación.
+• Bases de datos.
+• Lenguajes de marcas.
+• Entornos de desarrollo.
+• Desarrollo web en entorno cliente.
+• Despliegue de aplicaciones web.
+• Diseño de interfaces web.
+4. ANÁLISIS DEL CONTEXTO Y NIVEL DE ENSEÑANZA.
+El entorno profesional, social, cultural y económico del centro, su ubicación
+geográfica y las características y necesidades del alumnado, constituyen los ejes
+prioritarios en la planificación de procesos de enseñanza y aprendizaje. Los centros,
+departamentos y profesorado tendrán que tener en cuenta dicho entorno y las
+posibilidades de desarrollo de éste, a la hora de establecer las programaciones de cada
+uno de los módulos profesionales y del ciclo formativo en su conjunto. 
