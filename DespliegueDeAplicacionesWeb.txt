@@ -1,0 +1,73 @@
+1.-OBJETIVOS
+Los objetivos del módulo formativo DAPW se definen en forma de Resultados de
+Aprendizaje, que concretan para nuestro módulo los objetivos generales del ciclo y
+teniendo siempre como referente las finalidades educativas de nuestro centro y los
+principios de la educación establecidos en el artículo 1 de la Ley Orgánica de
+Educación (LOE 2/2006, de 3 de Mayo).
+Según estos principios, el presente módulo debe desarrollarse en términos de
+calidad, equidad e igualdad efectiva entre hombres y mujeres y permitiendo la
+transmisión de los valores de nuestra sociedad democrática. Hacemos mención especial
+de la flexibilidad de la educación y su concepción como aprendizaje permanente, pues
+es en la Formación Profesional donde más directamente se plasman estos dos principios.
+Tendremos que abarcar también los 6 grandes objetivos de la Formación
+Profesional (artículo 40 de la LOE y artículo 3 del RD 1538/06), que persiguen el
+desarrollo de la competencia general correspondiente atendiendo al mundo laboral y
+afianzando el espíritu emprendedor.
+Los Objetivos Generales del Ciclo Formativo DAW son 28 y están señalados en
+la Orden de 16 de Junio de 2011, de la Consejería de Educación, por la que se desarrolla
+el currículo correspondiente al ciclo. De entre ellos destacamos los siguientes por ser el
+Módulo Formativo DAPW necesario para su consecución:
+· Instalar módulos analizando su estructura y funcionalidad para gestionar
+servidores de aplicaciones.
+· Ajustar parámetros analizando la configuración para gestionar servidores
+de aplicaciones.
+· Utilizar herramientas específicas, cumpliendo los estándares establecidos,
+para elaborar y mantener la documentación de los procesos.
+· Establecer procedimientos, verificando su funcionalidad, para desplegar y
+distribuir aplicaciones.
+· Analizar y utilizar los recursos y oportunidades de aprendizaje relacionadas
+con la evolución científica, tecnológica y organizativa del sector y las
+I.E.S. Aguadulce - Presencial 8 / 28
+ DAW Despliegue de Aplicaciones Web
+tecnologías de la información y la comunicación, para mantener el espíritu
+de actualización y adaptarse a nuevas situaciones laborales y personales.
+tecnologías de la información y la comunicación, para mantener el espíritu
+de actualización y adaptarse a nuevas situaciones laborales y personales.
+La competencia general de este ciclo formativo es: “desarrollar, implantar, y
+mantener aplicaciones web, con independencia del modelo empleado y utilizando
+tecnologías específicas, garantizando el acceso a los datos de forma segura y
+cumpliendo los criterios de accesibilidad, usabilidad y calidad exigidas en los
+estándares establecidos”.
+Nuestro módulo, DAPW, contribuirá a alcanzar esta competencia general y más
+concretamente las siguientes competencias profesionales:
+· Configurar y explotar sistemas informáticos, adaptando la configuración
+lógica del sistema según las necesidades de uso y los criterios establecidos.
+· Aplicar técnicas y procedimientos relacionados con la seguridad en
+sistemas, servicios y aplicaciones, cumpliendo el plan de seguridad.
+· Gestionar servidores de aplicaciones adaptando su configuración en cada
+caso para permitir el despliegue de aplicaciones Web.
+· Desarrollar e integrar componentes software en el entorno del servidor web,
+empleando herramientas y lenguajes específicos, para cumplir las
+especificaciones de la aplicación.
+· Elaborar y mantener la documentación de los procesos de desarrollo,
+utilizando herramientas de generación de documentación y control de
+versiones.
+· Desplegar y distribuir aplicaciones web en distintos ámbitos de
+implantación, verificando su comportamiento y realizando modificaciones.
+· Resolver situaciones, problemas o contingencias con iniciativa y autonomía
+en el ámbito de su competencia, con creatividad, innovación y espíritu de
+mejora en el trabajo personal y en el de los miembros del equipo.
+Los Resultados de Aprendizaje del Módulo Formativo DAPW son:
+1. Implanta arquitecturas Web analizando y aplicando criterios de funcionalidad.
+2. Gestiona servidores Web, evaluando y aplicando criterios de configuración
+para el acceso seguro a los servicios. 
+3. Implanta aplicaciones Web en servidores de aplicaciones, evaluando y
+aplicando criterios de configuración para su funcionamiento seguro.
+4. Administra servidores de transferencia de archivos, evaluando y aplicando
+criterios de configuración que garanticen la disponibilidad del servicio.
+5. Verifica la ejecución de aplicaciones Web comprobando los parámetros de
+configuración de servicios de red.
+6. Elabora la documentación de la aplicación Web evaluando y seleccionando
+herramientas de generación de documentación y control de versiones.
+Estos Resultados de Aprendizaje se concretarán en los Objetivos Didácticos que
+posteriormente desarrollaremos para cada una de las Unidades Didácticas.

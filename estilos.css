@@ -1,4 +1,24 @@
-html, body{margin:0px;padding:0px}
+html, body{
+font-size:110%;
+font-weight:bold;
+font-family:fuente;
+margin:0px;
+padding:0px
+}
+body{
+background-color:#228866;
+}
+
 h1{color:blue}
-nav ul{list-style-type:none;padding:0px}
+
+nav ul{
+list-style-type:none;
+padding:0px
+}
+
+@font-face{
+            font-family:fuente;
+            src:url(font/fuente.otf);
+}
+
 
