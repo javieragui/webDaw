@@ -13,7 +13,8 @@ h1{color:blue}
 
 nav ul{
 list-style-type:none;
-padding:0px
+padding:0px;
+flex:1;
 }
 
 @font-face{
@@ -21,4 +22,7 @@ padding:0px
             src:url(font/fuente.otf);
 }
 
+.contenido{display:flex; flex-direction: row;}
+section{flex: 3;}
+footer{display:block;}
 
