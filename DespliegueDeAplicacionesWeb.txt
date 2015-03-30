@@ -70,4 +70,4 @@ configuración de servicios de red.
 6. Elabora la documentación de la aplicación Web evaluando y seleccionando
 herramientas de generación de documentación y control de versiones.
 Estos Resultados de Aprendizaje se concretarán en los Objetivos Didácticos que
-posteriormente desarrollaremos para cada una de las Unidades Didácticas.
+posteriormente desarrollaremos para cada una de las Unidades Didácticas
